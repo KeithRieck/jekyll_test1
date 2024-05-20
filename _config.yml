@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Jekyll Test 1
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -39,12 +39,12 @@ minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
+  skin: dark	             Dark variant of the classic skin.
   # auto	             Adaptive skin based on the default classic and dark skins.
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  # skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 

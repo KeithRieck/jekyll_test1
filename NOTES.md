@@ -6,3 +6,5 @@
 
 # See also:
 * [Adding a Theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+* [Supported Themes](https://pages.github.com/themes/)
+* [More Jekyll Themes](https://jekyllrb.com/docs/themes/#pick-up-a-theme)
