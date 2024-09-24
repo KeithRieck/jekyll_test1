@@ -1,6 +1,6 @@
 Hosted at: https://keithrieck.github.io/jekyll_test1/
 
-Originally from: https://jekyll.github.io/minima/
+Originally copied from: [https://jekyll.github.io/minima/](https://github.com/jekyll/minima)
 
 
 ## Installation
